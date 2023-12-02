@@ -1,0 +1,15 @@
+{
+  "name": "nodelesson1",
+  "version": "1.0.0",
+  "description": "We will learn how to create a basic node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node "
+  },
+  "keywords": [
+    "Node",
+    "js"
+  ],
+  "author": "Nihar RanjannHota",
+  "license": "ISC"
+}
