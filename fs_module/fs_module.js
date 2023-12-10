@@ -10,7 +10,7 @@ const fs = require("fs");
 
 // We can also list out the files present in a folder as follows - (LISTING THE FILES IN A FOLDER)
 
-// fs.readdir(`${__dirname}`, (err, data) => {
+// fs.readdir(__dirname, (err, data) => {
 //   data.forEach((file) => {
 //     console.log(file);
 //   });
